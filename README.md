@@ -65,7 +65,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThenuraDissanayake&show_icons=true&theme=radium" alt="Budvin's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThenuraDissanayake&theme=radium&hide_border=true" alt="Budvin's GitHub Streak" />
 </div>
 
 <!-- Bottom Horizontal Divider -->
