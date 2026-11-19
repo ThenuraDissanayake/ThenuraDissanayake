@@ -1,77 +1,29 @@
-<!-- Top Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+# Hi, I'm Budvin 👋
 
-<!-- Header Section -->
-<div align="center">
-  <h1>Hi 👋, I'm Budvin Dissanayake</h1>
-  <h3>🚀 Full-Stack Developer | DevOps Engineer | Mobile Specialist</h3>
-  <p>Building scalable cross-platform applications and robust backend architectures.</p>
-  
-  <!-- Social & Contact Badges -->
-  <a href="mailto:thenurabudvin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/budvin-dissanayake-6554a42a9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+**Software Engineer** · Mobile, web, backend & DevOps · Colombo, Sri Lanka
 
-<br/>
+I build mobile apps, web front-ends and the backends behind them, and I handle the DevOps side too: cloud deployments, CI/CD and separate staging and production environments.
 
-<!-- About Me Section -->
-### 👨‍💻 About Me
+### What I've shipped
 
-- 🎓 BSc (Hons) Software Engineering Graduate from the University of Plymouth.
-- 💼 Working as a Software Engineer.
-- 💻 Specializing in cross-platform mobile architecture and robust deployment pipelines.
-- ⚙️ Experienced in building complete systems using Flutter, React, Node.js, and MongoDB.
-- 🌱 Continuously exploring advanced software architectures and AI-integrated development workflows.
+**4 apps on Google Play, 2 of them also on the App Store**, for companies in Sri Lanka and Malaysia:
 
-<br/>
+- **Food delivery platform (Malaysia):** built the React Native app, with four roles (customers, riders, restaurants and staff), and its Node.js API: 113 REST endpoints over a 53-table PostgreSQL schema, deployed on AWS EC2 behind Nginx.
+- **Dating & community app:** led the build, with Flutter on Android and iOS, a Supabase backend with separate staging and production environments, end-to-end encrypted chat and calls, in-app subscriptions and 1,250+ automated tests.
+- **Dating app for Malaysia, Singapore and Indonesia:** led the build, in English, Malay and Indonesian, with Google and Apple sign-in and server-side purchase checks.
+- **EV charging platform:** built the React Native app and the Node.js API behind the app and the web client, deployed it to Google Cloud Run with Docker and GitHub Actions, and worked on the Next.js web client (sign-in, account recovery, API layer, Netlify setup).
 
-<!-- Tech Stack Section -->
-### 🛠️ Languages and Tools
----
+The code for these apps is private company work, so you won't find it here. I'm happy to walk you through it in an interview.
 
-Languages  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+### What I work with
 
-<br/>
+- **Languages:** TypeScript, JavaScript, Dart, SQL, Swift, Kotlin
+- **Mobile:** Flutter, React Native, Expo, Shorebird and EAS over-the-air updates
+- **Web:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, Express, Supabase (PostgreSQL, row-level security, Edge Functions), REST APIs, Socket.IO
+- **DevOps & cloud:** AWS (EC2, RDS, S3), Google Cloud Run, Docker, GitHub Actions, Nginx, Netlify, Vercel
+- **Payments & real-time:** Google Play Billing, StoreKit, Agora, WebRTC, Firebase Cloud Messaging
 
-Mobile & Frontend  
-<img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-<img src="https://img.shields.io/badge/React_Native-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+### Find me
 
-<br/>
-
-Backend & Databases  
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-%23404d59?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Firebase-%23039BE5?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
-
-<br/>
-
-DevOps & Tools  
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Google_Cloud-%234285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=F0F0F0" alt="MacOS" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-
-<br/>
-
-<!-- GitHub Stats Section -->
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThenuraDissanayake&theme=radium&hide_border=true" alt="Budvin's GitHub Streak" />
-</div>
-
-<!-- Bottom Horizontal Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🌐 [Portfolio](https://budvin-portfolio.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/budvin-dissanayake-6554a42a9) · ✉️ [thenurabudvin@gmail.com](mailto:thenurabudvin@gmail.com)
