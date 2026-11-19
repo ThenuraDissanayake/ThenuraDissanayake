@@ -11,7 +11,7 @@ I build mobile apps, web front-ends and the backends behind them, and I handle t
 - **Food delivery platform (Malaysia):** built the React Native app, with four roles (customers, riders, restaurants and staff), and its Node.js API: 113 REST endpoints over a 53-table PostgreSQL schema, deployed on AWS EC2 behind Nginx.
 - **Dating & community app:** led the build, with Flutter on Android and iOS, a Supabase backend with separate staging and production environments, end-to-end encrypted chat and calls, in-app subscriptions and 1,250+ automated tests.
 - **Dating app for Malaysia, Singapore and Indonesia:** led the build, in English, Malay and Indonesian, with Google and Apple sign-in and server-side purchase checks.
-- **EV charging platform:** built the React Native app and the Node.js API behind the app and the web client, deployed it to Google Cloud Run with Docker and GitHub Actions, and worked on the Next.js web client (sign-in, account recovery, API layer, Netlify setup).
+- **EV charging platform:** built the React Native app and the Node.js API behind the app and the web client, deployed it to Google Cloud Run with Docker and GitHub Actions, and worked on the Next.js web client (legal-update popup, sign-up validation, Netlify setup and most of its automated tests).
 
 The code for these apps is private company work, so you won't find it here. I'm happy to walk you through it in an interview.
 
